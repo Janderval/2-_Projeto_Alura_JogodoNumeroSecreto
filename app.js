@@ -14,7 +14,7 @@ function gerarNumeroAleatorio(intervalo){
         return numeroAleatorio;
     }
 }
-let intervalo = 5;
+let intervalo = 100;
 let numeroSecreto = gerarNumeroAleatorio(intervalo);
 
 
